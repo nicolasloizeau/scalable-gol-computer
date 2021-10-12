@@ -88,7 +88,7 @@ most a1 a2
 -> a1 = -a2
 """
 
-M = 8 #size of the variables
+M = 8 #size of the variables. can be 8, 16 or 32
 
 # write your program here
 # (this example draws a square in a circle)
