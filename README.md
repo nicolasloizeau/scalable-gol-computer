@@ -1,4 +1,4 @@
-# Computer in Conway's game of life 
+# A computer in Conway's game of life 
 
 This is a computer built in Conway’s game of life.
 It supports variable sizes of 8, 16 and 32 bit. Maximum program size: 256 lines, maximum number of variables: 128.
